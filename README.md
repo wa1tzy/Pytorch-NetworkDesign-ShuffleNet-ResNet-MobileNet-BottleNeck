@@ -16,8 +16,6 @@
 
 ![image](https://img-blog.csdnimg.cn/20200618130410696.png)
 
-weights:
-
+weights权重文件:
 链接：https://pan.baidu.com/s/12yphOwAipsIlH9PVkbcz3Q 
-
 提取码：sofm 
